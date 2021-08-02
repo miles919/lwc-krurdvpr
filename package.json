@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/miles919.lwc-krurdvpr",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve hPXZoYsDgZFilrHfOly1 --open"
+  }
+}
